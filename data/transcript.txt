@@ -1,0 +1,5 @@
+This is the first transcript.
+Here is the second transcript with more text.
+Another document with different content for the third example.
+The fourth transcript contains more unique words.
+This is the final transcript in the sample data.
